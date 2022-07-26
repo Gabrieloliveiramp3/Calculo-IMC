@@ -7,7 +7,7 @@
 
 <p>E uma barra de busca totalmente síncrona ao que for digitado.</p>
 
-<p><img align="center" src="img/Planilha de cálculo IMC - Mozilla Firefox 2022-07-26 15-24-10.gif" width="940px"/></p>
+<p><img align="center" src="img/Planilha de cálculo IMC - Mozilla Firefox 2022-07-26 15-24-10.gif" width="840px"/></p>
 
 <p><img src="img/Screenshot 2022-07-26 at 15-19-33 Planilha de cálculo IMC.png" align="center"/></p>
 
