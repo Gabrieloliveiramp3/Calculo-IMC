@@ -1,14 +1,14 @@
-<h1>Cálculo IMC</h1> 
-<center>
-<h2><p>Foi construido com Javascript, HTML5 e CSS3.</p>
+<h1><p align=center>Cálculo IMC</h1> </p></center>
 
-Utilizei API's de cadastros para está simulando pessoas e seus respectivos pesos para o calculo do IMC automaticamente.
+<h2><p align=center>Foi construido com Javascript, HTML5 e CSS3.</p></center>
 
-Com dois cliques pode-se está excluindo a linha que deseja
+<p align=center>Utilizei API's de cadastros para está simulando pessoas e seus respectivos pesos para o calculo do IMC automaticamente.</p>
 
-E uma barra de busca totalmente síncrona ao que for digitado.</h2>
+<p align=center>Com dois cliques pode-se está excluindo a linha que deseja.</p>
 
-<img align="center" src="img/Planilha de cálculo IMC - Mozilla Firefox 2022-07-26 15-24-10.gif" width="840px"/>
+<p align=center>E uma barra de busca totalmente síncrona ao que for digitado.</p></h2>
+
+<p align=center><img src="img/Planilha de cálculo IMC - Mozilla Firefox 2022-07-26 15-24-10.gif" width="840px"/>
 
 <p><img src="img/Screenshot 2022-07-26 at 15-19-33 Planilha de cálculo IMC.png" align="center"/></p>
 
